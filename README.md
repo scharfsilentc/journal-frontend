@@ -8,7 +8,7 @@ A short form journal app that stores and visualizes user data.
 
 This is the front-end portion of NoctJournal, a short-form journalling web app designed and built over the course of 9 days as a final project by a team of 3 students (@bashunaimiroy, @tzulkarnain and @scharfsilentc) in the DecodeMTL Web Developer Bootcamp.
 
-The front-end portion consists of a React app using 20~ components and an API wrapper which communicates with the back-end, currently deployed at https://glacial-dawn-27724.herokuapp.com/.
+The front-end portion consists of a React app using 20~ components and an API wrapper which communicates with the back-end.
 
 Modules used in the front-end include React Router DOM, React Chart.js 2, Firebase, Superagent, Moment and Google Map React.
 
