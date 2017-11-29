@@ -16,7 +16,7 @@ CSS Grid and Styled Components were used extensively in the design of the user i
 
 Deployment is coming soon. For now, you can test the app in your browser by cloning this repo, running npm install and npm start. We hope you enjoy it.
 
-#Screenshots
+# Screenshots
 For your quick-viewing pleasure
 
 #### Dashboard
